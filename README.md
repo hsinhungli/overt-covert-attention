@@ -18,8 +18,8 @@ The code used to simualte population neural response and predict behavioral perf
 The code is adpated from the following two papers:
 JH Reynolds, DJ Heeger (2009) The normalization model of attention - Neuron
 HH Li, M Carrasco, DJ Heeger (2015) Deconstructing interocular suppression: Attention and divisive normalization - PLoS Comput Biol
-
-###UpConv: To simulate population neural response, the code requires upConv functions from Eero Simoncelli's steerable pyramid toolbox matlabPyrTools
+### UpConv
+To simulate population neural response, the code requires upConv functions from Eero Simoncelli's steerable pyramid toolbox matlabPyrTools
 This fold contains some pre-complied files. If the files don't work, try download the updated version
 https://github.com/LabForComputationalVision/matlabPyrTools/
 
